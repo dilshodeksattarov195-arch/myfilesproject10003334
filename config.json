@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfender",
+        "uuid": 15759818,
+        "checksum": "5zq0jk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
